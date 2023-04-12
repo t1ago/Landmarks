@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #2 in closure #1 in ProfileHost.body.getter:ProfileHost.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "modelData.profile">
+            </PersistentString>
+            <PersistentString
+               value = "self.draftProfile">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in closure #1 in ProfileHost.body.getter:ProfileHost.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "modelData.profile">
+            </PersistentString>
+            <PersistentString
+               value = "self.draftProfile">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in ProfileHost.body.getter:ProfileHost.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "modelData.profile">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
